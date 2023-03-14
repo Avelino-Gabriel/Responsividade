@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+}
+
+main{
+    background-color: aqua;
+    padding: 20px;
+
+    min-width: 300px;
+    max-width: 800px;
+    margin: auto
+}
+
+#Clinic {
+    width: 100%;
+}
